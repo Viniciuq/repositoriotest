@@ -6,4 +6,6 @@ module semafaro(A, VerdeA, VerdeB);
     assign VerdeA = A;
     assign VerdeB = ~A;
 
+    // novas features  
+
 endmodule
